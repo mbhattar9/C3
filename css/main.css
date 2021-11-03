@@ -666,6 +666,10 @@ input:focus, select:focus, button:focus, .dropdown-list, .dropdown-button[aria-e
     flex: 0 0 80px;
     border-radius: 50%;
     margin-right: 20px;
+    color: #1b4722;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .resource-inner{
     flex: 1 1 100%;
