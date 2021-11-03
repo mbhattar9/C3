@@ -169,12 +169,14 @@ function buildRows(){
 
     for(let i=0;i<filteredData.length;i++){
         let d = filteredData[i];
+        let rType = d.r_list[0];
+        let iName = "img/icon_" + rType + ".png";
 
         let li = document.createElement("li");
             li.classList.add("resource-li");
         let img = document.createElement("img");
-            img.setAttribute("src", "");
-            img.setAttribute("alt", "");
+            img.setAttribute("src", iName);
+            img.setAttribute("alt", rType);
             img.classList.add("resource-img");
         let inner = document.createElement("div");
             inner.classList.add("resource-inner");
