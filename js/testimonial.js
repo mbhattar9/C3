@@ -10,13 +10,13 @@ const testimonialsList = [
         text: "\"Our faith calls us to be part of a larger community and calls us to look out for one another and the vaccine is one of those ways we can look out for one another and not just ourselves.\""
     },
     {
-        name: "Pastor Gus",
-        img: "test-1.jpg",
-        text: "\"I personally trust in the science and it can save your life.\""
+        name: "Carolina Pinzon",
+        img: "SocialMediaVaccineQuote-Pinzon.jpg",
+        text: "\"I got vaccinated to be healthy for my family, and because it is the opportunity to help my community get stronger and overcome this hard situation.\""
     },
     {
-        name: "Pastor Brenda",
-        img: "test-2.jpg",
-        text: "\"It grieves my heart that we are not caring for each other as we once did. That we look out for ourselves instead of even the small community around us.\""
+        name: "John Rosenow",
+        img: "SocialMediaVaccineQuote-Rosenow.jpg",
+        text: "\"Since I am now vaccinated, I am more comfortable knowing that it won't kill me, and I won't put others at risk.\""
     },
 ];
