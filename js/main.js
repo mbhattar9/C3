@@ -1,3 +1,5 @@
+"use strict";
+
 function setUpTestimonials(){
   if(testimonialsList){
     let tHolder = document.querySelector(".carousel-content-holder");

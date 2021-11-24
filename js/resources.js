@@ -1,3 +1,5 @@
+"use strict";
+
 let categoriesR = [];
 let categoriesO = [];
 let searchTerm = "";
