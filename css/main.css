@@ -180,6 +180,7 @@ a{
     width: 1080px;
     max-width: 100%;
     margin: 0 auto;
+    text-align: right;
 }
 .sub-footer{
     width:100%;
@@ -774,8 +775,8 @@ a.front-button-link:hover, a.front-button-link:focus{
 }
 .footer-policy-link{
     color: #fff;
-    display: block;
-    text-align: right;
+    display: inline-block;
+    margin-left: 20px;
 }
 .footer-policy-link:hover, .footer-policy-link:focus{
     color: #d2ea84;
@@ -991,6 +992,9 @@ a.front-button-link:hover, a.front-button-link:focus{
         width: 300px;
     }
     .footer-policy-link{
+        margin: 0 20px;
+    }
+    .sub-footer-inner{
         text-align: center;
     }
 }
