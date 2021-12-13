@@ -40,11 +40,5 @@ const biosList = [
         photo: "andy_garbacz.jpg",
         title: "Co-Investigator",
         bio: "Andy Garbacz, PhD is an Associate Professor in the Department of Educational Psychology at the University of Wisconsin-Madison. Andy's work emphasizes promoting youth mental health through integrating family, school, and community partnerships.",
-    },
-    {
-        name: "Kate Gillespie, DNP, RN",
-        photo: "kate_gillespie.jpg",
-        title: "Co-Investigator",
-        bio: "Kate Gillespie, DNP, RN is the Deputy Director of the UWPRC. She is an Assistant Scientist in the Department of Obstetrics and Gynecology at the University of Wisconsin School of Medicine and Public Health. Dr. Gillespie has extensive experience in maternal and child health that fostered her research in risk-based maternal care. She is particularly interested in qualitative studies on the effectiveness of integrating public health programs that support women during the perinatal period with clinical care. As the Deputy Director, Dr. Gillespie oversees all UWPRC activities within and outside the center.",
     }
 ];
