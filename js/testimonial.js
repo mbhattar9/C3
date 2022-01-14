@@ -21,7 +21,7 @@ const testimonialsList = [
     },
     {
         name: "New DHS and CDC Recommendations",
-        img: "prc_logo.jpg",
+        img: "mini_logo.jpg",
         text: "DHS and CDC now recommend a COVID-19 vaccine booster dose for everyone 12 and older. The Pfizer COVID-19 vaccine is the only one recommended for 12- to 17-year-olds at this time."
     },
 ];
