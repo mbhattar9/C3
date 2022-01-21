@@ -1,8 +1,8 @@
 const testimonialsList = [
     {
-        name: "Dairy Strong Conference",
-        img: "DBA.png",
-        text: "C3 will be tabling at the Dairy Strong Conference at Monona Terrace this January 19th and 20th! Hope to see you there!"
+        name: "Representing C3 at Dairy Strong 2022",
+        img: "DBAgovernor.jpg",
+        text: "C3, alongside other community health organizations, connected with dairy farmers and others in the dairy industry to talk about the importance of COVID-19 vaccination. We also met Governor Tony Evers!"
     },
     {
         name: "Dale Bender, Richland County",
