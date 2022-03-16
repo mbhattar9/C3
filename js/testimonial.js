@@ -19,9 +19,5 @@ const testimonialsList = [
         img: "ronfruit.jpg",
         text: "\"I want to be able to watch my grandson grow up.\""
     },
-    {
-        name: "New DHS and CDC Recommendations",
-        img: "mini_logo.png",
-        text: "Wisconsin DHS and CDC now recommend a COVID-19 vaccine booster dose for everyone 12 and older. The Pfizer COVID-19 vaccine is the only one recommended for 12- to 17-year-olds at this time. Find out how and where to get vaccinated using our button above!"
-    },
+    
 ];
