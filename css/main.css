@@ -700,10 +700,10 @@ input:focus, select:focus, button:focus, .dropdown-list, .dropdown-button[aria-e
     font-weight: 700;
     margin-bottom: 6px;
 }
-.resource-title a, .front-link{
+.resource-title a, .front-link, .download-list a{
     color: #0e86bd;
 }
-.resource-title a:hover, .resource-title a:focus, .front-link:hover, .front-link:focus{
+.resource-title a:hover, .resource-title a:focus, .front-link:hover, .front-link:focus,  .download-list a:hover,  .download-list a:focus{
     color: #34763e;
 }
 .front-link{
@@ -802,6 +802,16 @@ h3.download-header{
     color: #1b4722;
     padding-left: 15px;
     margin-bottom: 5px;
+}
+.download-list{
+    list-style-type: none;
+    padding-left: 15px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.download-list li{
+    margin-bottom: 10px;
+    border-bottom: 4px dotted #d2ea84;
 }
 
 .hidden{
