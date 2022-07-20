@@ -781,6 +781,28 @@ a.front-button-link:hover, a.front-button-link:focus{
 .footer-policy-link:hover, .footer-policy-link:focus{
     color: #d2ea84;
 }
+.button-link{
+    display: inline-block;
+    margin: 20px 25px;
+    margin-left: 0;
+    color: #fff;
+    background-color: #1390c9;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.button-link:hover, .button-link:focus{
+    color: #d2ea84;
+    cursor: pointer;
+}
+h3.download-header{
+    font-size: 28px;
+    font-weight: 600;
+    background-color: #d2ea84;
+    color: #1b4722;
+    padding-left: 15px;
+    margin-bottom: 5px;
+}
 
 .hidden{
     display: none;
